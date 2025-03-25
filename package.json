@@ -1,10 +1,23 @@
 {
-  "version":"1.0.0",
-  "name":"wilders",
-  "scripts":{
-  "start":"node index.js"
-},
+  "version": "1.0.0",
+  "name": "wilders",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "chalk": "^5.4.1"
-  }
+  },
+  "description": "workshop chalk node js",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giapolo/workshop-chalk.git"
+  },
+  "author": "Maxime Giampaoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giapolo/workshop-chalk/issues"
+  },
+  "homepage": "https://github.com/Giapolo/workshop-chalk#readme"
 }
