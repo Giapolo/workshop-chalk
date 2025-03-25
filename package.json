@@ -1,0 +1,10 @@
+{
+  "version":"1.0.0",
+  "name":"wilders",
+  "scripts":{
+  "start":"node index.js"
+},
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
